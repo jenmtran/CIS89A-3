@@ -1,3 +1,5 @@
+/* a new font I'd like to try out */
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
 html {
     background-color: #FF94C4;
 }
@@ -5,13 +7,13 @@ body {
     width: 550px;
     margin: auto;
     padding: 15px;
-    font-family: arial, sans-serif;
+    font-family: "M PLUS 1p", sans-serif;
     font-color: #FFFFFF;
     background-color: black;
 }
 /* text material */
 h1 {
-    font-family: arial, sans-serif;
+    font-family: "M PLUS 1p", sans-serif;
 }
 /* unvisited link color */
 a:link {
