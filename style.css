@@ -3,9 +3,10 @@
 html {
     background-color: #FF94C4;
 }
-/* navigation adjustment */
+/* navigation adjustment all the way to the right */
 nav {
-    width: 100%
+    display: flex;
+    justify-content: flex-end;
     text-align: right;
     margin-bottom: 10px;
     padding-bottom: 10px;
