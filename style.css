@@ -5,16 +5,14 @@ html {
 }
 /* navigation adjustment all the way to the right */
 nav {
-    display: flex;
-    justify-content: flex-end;
-    text-align: right;
+    text-align: left;
     margin-bottom: 10px;
     padding-bottom: 10px;
+    margin-left: -5px;
 }
 /* adding a space between the nav buttons */
 nav a {
     text-decoration: none;
-    margin-left: 10px;
 }
 /* all text elements */
 body {
