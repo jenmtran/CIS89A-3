@@ -7,8 +7,6 @@ html {
 nav {
     text-align: left;
     margin-bottom: 10px;
-    padding-bottom: 10px;
-    margin-left: -5px;
 }
 /* adding a space between the nav buttons */
 nav a {
