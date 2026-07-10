@@ -11,7 +11,6 @@ nav {
 }
 /* adding a space between the nav buttons */
 nav a {
-    margin: 0 5px;
     text-decoration: none;
 }
 /* all text elements */
