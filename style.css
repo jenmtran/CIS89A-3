@@ -1,8 +1,9 @@
 /* body content. */
 body {
-    width: 450px;
+    width: 550px;
     margin: auto;
-    font-family: Tahoma, sans-serif;
+    font-family: arial, sans-serif;
+    font-color: white;
     background-color:black;
 }
 section {
