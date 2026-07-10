@@ -4,12 +4,12 @@ html {
     background-color: #FF94C4;
 }
 body {
+    background-color: black;
     width: 550px;
     margin: auto;
-    padding: 15px;
+    padding: 30px;
     font-family: "M PLUS 1p", sans-serif;
-    font-color: #FFFFFF;
-    background-color: black;
+    font-color: white;
 }
 /* text material */
 h1 {
