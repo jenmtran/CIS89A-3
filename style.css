@@ -3,6 +3,12 @@
 html {
     background-color: #FF94C4;
 }
+/* navigation adjustment */
+nav {
+    text-align: left;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
 /* all text elements */
 body {
     width: 550px;
