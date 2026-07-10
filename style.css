@@ -1,33 +1,28 @@
 html {
-    background-color: #FFE5F1;
+    background-color: #FF94C4;
 }
 body {
     width: 550px;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 30px;
+    padding: 15px;
     font-family: arial, sans-serif;
-    font-color: white;
+    font-color: #FFFFFF;
     background-color: black;
 }
-section {
-    background-color: pink;
-    padding: 15px;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-// text material
+/* text material */
 h1 {
     font-family: arial, sans-serif;
 }
-// unvisited link color
+/ * unvisited link color */
 a:link {
     color: #FF7ABF;
 }
-// visited link
+/* visited link */
 a:visited {
     color: #545454;
 }
-// hovering over text
+/* hovering over text */
 a:hover {
     font-weight: bold;
 }
