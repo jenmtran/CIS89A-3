@@ -9,6 +9,10 @@ nav {
     margin-bottom: 15px;
     padding-bottom: 10px;
 }
+/* adding a space between the nav buttons */
+nav a {
+    margin: 2px;
+}
 /* all text elements */
 body {
     width: 550px;
