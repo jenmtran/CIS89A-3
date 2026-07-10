@@ -4,7 +4,6 @@ html {
 body {
     width: 550px;
     margin: auto;
-    margin-top: 30px;
     padding: 15px;
     font-family: arial, sans-serif;
     font-color: #FFFFFF;
@@ -14,7 +13,7 @@ body {
 h1 {
     font-family: arial, sans-serif;
 }
-/ * unvisited link color */
+/* unvisited link color */
 a:link {
     color: #FF7ABF;
 }
@@ -24,5 +23,6 @@ a:visited {
 }
 /* hovering over text */
 a:hover {
+    color: white;
     font-weight: bold;
 }
